@@ -42,7 +42,7 @@ To get started with this project, simply follow these steps:
 
 ## 🎨 Demo
 
-Check out the live demo [here](https://random-jokes-red.vercel.app/) *(link placeholder)*.
+Check out the live demo [here](https://random-jokes-red.vercel.app/)
 
 ---
 
